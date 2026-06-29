@@ -6,7 +6,7 @@ Part of the Entity Tax Strategy series.
 
 ## Deployment
 
-Deployed to Vercel at **ccorptaxstrategy.com**.
+Deployed to Vercel at **ccorptaxbook.com**.
 
 ## Structure
 
@@ -20,6 +20,6 @@ Deployed to Vercel at **ccorptaxstrategy.com**.
 
 ## Series Network
 
-- [partnershiptaxstrategies.com](https://partnershiptaxstrategies.com) -- Partnership Tax Strategies
-- [ccorptaxstrategy.com](https://ccorptaxstrategy.com) -- C Corporation Tax Strategy (this site)
+- [partnershiptaxbook.com](https://partnershiptaxbook.com) -- Partnership Tax Strategies
+- [ccorptaxbook.com](https://ccorptaxbook.com) -- C Corporation Tax Strategy (this site)
 - [aetaxadvisors.com](https://aetaxadvisors.com) -- AE Tax Advisors (main site)

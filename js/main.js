@@ -1,6 +1,6 @@
 /* =========================================
    C Corporation Tax Strategy
-   ccorptaxstrategy.com -- Minimal JS
+   ccorptaxbook.com -- Minimal JS
    ========================================= */
 
 (function () {
