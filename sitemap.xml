@@ -6,4 +6,13 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url><loc>https://www.ccorptaxbook.com/about</loc><lastmod>2026-09-22</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.ccorptaxbook.com/blog/</loc><lastmod>2026-09-22</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ccorptaxbook.com/blog/posts/21-percent-corporate-tax-rate.html</loc><lastmod>2026-09-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.ccorptaxbook.com/blog/posts/accumulated-earnings-tax-avoidance.html</loc><lastmod>2026-09-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.ccorptaxbook.com/blog/posts/c-corp-fringe-benefits-owner-health-insurance.html</loc><lastmod>2026-09-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.ccorptaxbook.com/blog/posts/c-corp-obbba-bonus-depreciation-rd-expensing.html</loc><lastmod>2026-09-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.ccorptaxbook.com/blog/posts/c-corp-vs-s-corp-comparison.html</loc><lastmod>2026-09-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.ccorptaxbook.com/blog/posts/nonqualified-deferred-compensation-c-corp.html</loc><lastmod>2026-09-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.ccorptaxbook.com/blog/posts/section-1202-qsbs-guide.html</loc><lastmod>2026-09-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
