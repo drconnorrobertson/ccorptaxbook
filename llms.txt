@@ -1,0 +1,20 @@
+# C Corporation Tax Strategy
+
+Published by AE Tax Advisors. Original companion education with hypothetical examples. Not book excerpts, independent reviews, audited outcomes or personalized tax advice.
+
+## Companion index
+
+- [C Corporation Tax: Model the Company and Shareholder Together](https://www.ccorptaxbook.com/reading-guides/corporate-shareholder-two-level-tax-model): A corporate tax rate is only one input in an entity decision. Use a two-level illustration to connect company tax, shareholder distributions and after-tax cash.
+- [C Corporation Retained Earnings: Document the Business Need](https://www.ccorptaxbook.com/reading-guides/retained-earnings-business-needs-file): Retaining profits can fund growth, but an unlimited cash balance is not a tax plan. Learn how to connect retained cash with real operating needs.
+- [C Corporation Shareholder Loans: Debt or a Distribution?](https://www.ccorptaxbook.com/reading-guides/shareholder-loan-dividend-records): A transfer labeled shareholder loan needs more than a bookkeeping account. Use this guide to review repayment intent, terms and the consequences of personal cash use.
+- [C Corporation Owner Pay and Benefits: Build One Budget](https://www.ccorptaxbook.com/reading-guides/c-corp-owner-payroll-benefits-budget): Compensation, benefits and retirement funding belong in one corporate cash plan. Learn which assumptions need review before estimating an owner's tax benefit.
+- [C Corporation Exit Planning: Asset Sale and Stock Sale Comparison](https://www.ccorptaxbook.com/reading-guides/c-corp-asset-sale-stock-sale-comparison): An exit offer needs a tax structure comparison before the headline price is evaluated. Follow how an asset sale can affect both corporation and shareholder cash.
+- [C Corporation Losses: Why They Do Not Pass Through to Owner Wages](https://www.ccorptaxbook.com/reading-guides/corporate-loss-does-not-offset-owner-wages): A C corporation loss is not an S corporation K-1 loss. Learn where corporate losses stay and why the owner's personal salary is a separate tax item.
+- [C Corporation Tax Strategy: AE Tax Advisors Companion Reading Guides](https://www.ccorptaxbook.com/reading-guides): Read six focused c corporation tax strategy companion guides with worked examples, records checklists, IRS references and links to published AE Tax Advisors case studies.
+
+## Related resources
+
+- [Existing learning library](https://www.ccorptaxbook.com/blog)
+- [AE Tax Advisors](https://www.aetaxadvisors.com/)
+- [Published AE case studies](https://aetaxadvisorsreviews.com/case-studies/)
+- [Case-study methodology](https://aetaxadvisorsreviews.com/case-studies/methodology/)

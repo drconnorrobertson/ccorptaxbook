@@ -1,0 +1,116 @@
+{
+  "book": "C Corporation Tax Strategy",
+  "domain": "www.ccorptaxbook.com",
+  "case": "c-corporation",
+  "intro": "Follow corporate income through compensation, distributions, retained cash and an eventual exit. A useful entity comparison includes both the company and its shareholders, with explicit assumptions about how profits leave the business.",
+  "articles": [
+    [
+      "corporate-shareholder-two-level-tax-model",
+      "C Corporation Tax: Model the Company and Shareholder Together",
+      "A corporate tax rate is only one input in an entity decision. Use a two-level illustration to connect company tax, shareholder distributions and after-tax cash.",
+      "An entity comparison should start with how the owner plans to use the profits. Cash retained for operations, cash paid as reasonable compensation and cash distributed as dividends have different consequences. Do not compare a corporate tax rate directly with a shareholder's top personal rate and call the difference savings. Include state tax, payroll costs, benefit treatment and the timing of distributions in the same model.",
+      "Use explicit assumptions for the second layer",
+      "A C corporation generally pays its own income tax, and taxable dividends can create shareholder-level tax when profits are distributed. Compensation requires a separate deductibility and payroll analysis. Distribution treatment depends on earnings and profits and other rules, not simply the bank transfer label. A useful projection identifies which cash is retained, which is paid for services and which is distributed to shareholders.",
+      "For arithmetic only, assume $100,000 of taxable corporate profit, a 21 percent federal corporate tax and distribution of all $79,000 remaining cash. If an assumed 20 percent shareholder tax applies to that entire dividend, that layer is $15,800 and combined tax is $36,800. The assumed dividend rate is not a prediction: state tax, net investment income tax, qualification and the shareholder's bracket can change it. This example demonstrates why the second layer belongs in the comparison.",
+      [
+        "Forecast retained cash and shareholder withdrawals.",
+        "State all company and shareholder rate assumptions.",
+        "Separate deductible pay from dividends.",
+        "Compare multi-year cash and exit outcomes."
+      ],
+      "Does a 21 percent corporate rate establish that a C corporation is cheaper?",
+      "No. The comparison must include shareholder-level treatment, compensation, state tax and how profits ultimately leave the company.",
+      "publications/p542"
+    ],
+    [
+      "retained-earnings-business-needs-file",
+      "C Corporation Retained Earnings: Document the Business Need",
+      "Retaining profits can fund growth, but an unlimited cash balance is not a tax plan. Learn how to connect retained cash with real operating needs.",
+      "The company may need working capital, equipment, hiring, acquisition funding or debt reserves. Write those needs as estimates with timing, expected cost and approval. A statement that the company might expand someday is weaker than an adopted project and funding schedule. Keep the forecast connected to actual cash use so later readers can understand why earnings were retained.",
+      "Review accumulation with the entire corporate tax picture",
+      "An accumulated earnings tax analysis can become relevant when earnings are retained beyond reasonable business needs to avoid shareholder income tax. Other rules, including personal holding company provisions where applicable, require separate review. Not every retained dollar triggers additional tax, and not every board resolution eliminates exposure. Corporate cash planning should distinguish business reserves from amounts held for the owner's personal objectives.",
+      "A company retains $450,000 and plans a $220,000 equipment purchase, $130,000 working capital reserve and $100,000 acquisition diligence budget. The file should explain those figures, their dates and the underlying operating forecast. If the acquisition is abandoned, update the cash plan instead of repeating the old explanation each year. The numbers illustrate documentation, not a safe harbor or a conclusion that the entire balance is reasonable.",
+      [
+        "Prepare a cash forecast and project budgets.",
+        "Record approvals and expected implementation dates.",
+        "Distinguish operating needs from personal goals.",
+        "Revisit projects that are delayed or cancelled."
+      ],
+      "Does a board resolution make any cash accumulation acceptable?",
+      "No. The explanation needs support in actual business needs and facts. A resolution is one record in the analysis.",
+      "publications/p542"
+    ],
+    [
+      "shareholder-loan-dividend-records",
+      "C Corporation Shareholder Loans: Debt or a Distribution?",
+      "A transfer labeled shareholder loan needs more than a bookkeeping account. Use this guide to review repayment intent, terms and the consequences of personal cash use.",
+      "Identify the direction of the loan first. Money advanced by a shareholder to the company is not the same transaction as money taken by a shareholder from the company. Record who owes whom, how the funds were used and the commercial reason. Loans, compensation, capital contributions and distributions have different reporting effects. A year-end journal entry should reflect the transaction rather than invent its character.",
+      "Support debt with terms and conduct",
+      "A debt review considers documentation, interest, maturity, repayment ability and actual payments, among other facts. Below-market loans can raise additional tax questions. If a company pays personal expenses or provides funds without a credible repayment arrangement, constructive distribution or compensation treatment may be relevant. A signed note is useful, but ongoing conduct can undermine a document that is never followed.",
+      "A shareholder receives $75,000 from the corporation to buy a personal asset. The books call it a receivable, but there is no repayment schedule and no payments over several years. Compare that file with a documented loan that has appropriate terms, scheduled repayment and evidence of payments. The label does not decide the outcome. The review should also consider whether the owner has the means to repay and whether interest reporting is handled correctly.",
+      [
+        "Document direction, amount and purpose.",
+        "Review interest, maturity and repayment ability.",
+        "Record actual payments and remaining balance.",
+        "Check personal expenses and reporting consequences."
+      ],
+      "Can I avoid a dividend simply by calling the transfer a loan?",
+      "No. Tax treatment depends on the actual transaction and supporting facts, including whether genuine debt exists.",
+      "publications/p542"
+    ],
+    [
+      "c-corp-owner-payroll-benefits-budget",
+      "C Corporation Owner Pay and Benefits: Build One Budget",
+      "Compensation, benefits and retirement funding belong in one corporate cash plan. Learn which assumptions need review before estimating an owner's tax benefit.",
+      "A corporate benefit expense is not automatically tax-free to its recipient. Start with the plan design, eligible participants, ownership and the specific benefit. Health coverage, retirement contributions and other fringe benefits each have rules. Include all eligible employees in the cost model rather than budgeting only for the owner. A plan that looks inexpensive when limited to one person may require a very different funding commitment after the coverage review.",
+      "Align the deduction, recipient treatment and plan administration",
+      "Review reasonable compensation, payroll reporting, benefit eligibility and any nondiscrimination requirements applicable to the arrangement. Salary, employer contributions and personal distributions should stay distinguishable in the accounting records. A proposed benefit should have a responsible administrator and a funding deadline. The payroll team, plan administrator and tax preparer need the same underlying employee and ownership facts.",
+      "An owner budgets $140,000 of wages and $40,000 for benefits and retirement funding. That $40,000 is a planning envelope, not a deduction conclusion. The administrator tests the proposed plan and determines employee coverage costs, allowable contributions and reporting. If required employee funding makes the total $65,000, the company must revise the cash plan before adoption. Do not describe the original estimate as realized savings.",
+      [
+        "Inventory benefits and identify each plan rule.",
+        "List eligible staff and ownership relationships.",
+        "Model company cost and recipient treatment.",
+        "Assign funding and reporting responsibilities."
+      ],
+      "Are all corporate benefits tax-free for the owner?",
+      "No. Each benefit has eligibility, exclusion and reporting rules. Ownership and employee coverage can affect the analysis.",
+      "publications/p15b"
+    ],
+    [
+      "c-corp-asset-sale-stock-sale-comparison",
+      "C Corporation Exit Planning: Asset Sale and Stock Sale Comparison",
+      "An exit offer needs a tax structure comparison before the headline price is evaluated. Follow how an asset sale can affect both corporation and shareholder cash.",
+      "Buyers and sellers may prefer different deal structures. A buyer interested in asset basis may value an asset purchase differently from a stock purchase. The seller needs to evaluate where gain is recognized, what liabilities remain and how cash reaches the shareholder. Begin the model before accepting a letter of intent so the structure can inform negotiations instead of becoming a surprise at closing.",
+      "Trace the transaction through both taxpayers",
+      "A corporate asset sale can produce company-level gain, with an additional shareholder consequence when proceeds are distributed or the company liquidates. A stock sale generally presents a different shareholder analysis, but elections and special rules can change the treatment. Keep the comparison specific to actual basis, assets, debt, transaction costs and distribution plans. Potential stock exclusions require a separate eligibility analysis and should not be assumed from the company label.",
+      "Consider two offers with the same $2 million headline value. One buys company assets; the other buys shareholder stock. A model that considers only the owner's stock basis cannot evaluate the asset offer. Calculate corporate asset gain, taxes and liabilities first, then model the shareholder receipt. For the stock offer, model shareholder gain and the actual negotiated terms. Differences in indemnities, working capital and escrow can change the cash comparison even before taxes.",
+      [
+        "Build separate asset and stock transaction schedules.",
+        "Reconcile company asset basis and shareholder stock basis.",
+        "Include distribution, liquidation and debt effects.",
+        "Review elections and eligibility before negotiations."
+      ],
+      "Will a stock sale always avoid company-level tax?",
+      "Do not assume that result. Transaction elections, structure and applicable special rules must be reviewed with the actual deal.",
+      "publications/p542"
+    ],
+    [
+      "corporate-loss-does-not-offset-owner-wages",
+      "C Corporation Losses: Why They Do Not Pass Through to Owner Wages",
+      "A C corporation loss is not an S corporation K-1 loss. Learn where corporate losses stay and why the owner's personal salary is a separate tax item.",
+      "The corporation and shareholder are different taxpayers. A business operating loss in a C corporation generally remains with the company, subject to corporate loss rules. An owner should not expect that loss to appear as a pass-through deduction on the personal return. Compensation, dividends, stock transactions and genuine shareholder loans each require their own treatment.",
+      "Keep company loss attributes separate from personal losses",
+      "Section 461(l) is an excess business loss limitation for noncorporate taxpayers, so it is not applied to a C corporation's own operating loss. Corporate NOL rules and other limitations still matter. A shareholder investment that loses value also does not automatically create a current personal deduction. A loss event involving stock or debt needs its own facts, timing and character analysis. Changing entity classification later does not simply move prior corporate losses to the owner.",
+      "A corporation reports a $180,000 operating loss while its owner receives $110,000 of wages. The $180,000 does not automatically reduce the owner's wage income. The company records any eligible corporate loss attribute and models future use under the applicable rules. If the owner also lent money to the company, that debt is reviewed separately; it is not automatically deductible merely because the corporation had a bad year.",
+      [
+        "Identify the taxpayer that incurred the loss.",
+        "Track corporate attributes by year and type.",
+        "Separate wages, stock and shareholder debt.",
+        "Review future use and ownership changes with an advisor."
+      ],
+      "Can I personally deduct the company loss because I own all the shares?",
+      "C corporation ownership does not turn the corporate operating loss into a pass-through personal deduction.",
+      "instructions/i1120"
+    ]
+  ]
+}

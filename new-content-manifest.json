@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/reading-guides/corporate-shareholder-two-level-tax-model",
+    "url": "https://www.ccorptaxbook.com/reading-guides/corporate-shareholder-two-level-tax-model",
+    "title": "C Corporation Tax: Model the Company and Shareholder Together",
+    "description": "A corporate tax rate is only one input in an entity decision. Use a two-level illustration to connect company tax, shareholder distributions and after-tax cash."
+  },
+  {
+    "path": "/reading-guides/retained-earnings-business-needs-file",
+    "url": "https://www.ccorptaxbook.com/reading-guides/retained-earnings-business-needs-file",
+    "title": "C Corporation Retained Earnings: Document the Business Need",
+    "description": "Retaining profits can fund growth, but an unlimited cash balance is not a tax plan. Learn how to connect retained cash with real operating needs."
+  },
+  {
+    "path": "/reading-guides/shareholder-loan-dividend-records",
+    "url": "https://www.ccorptaxbook.com/reading-guides/shareholder-loan-dividend-records",
+    "title": "C Corporation Shareholder Loans: Debt or a Distribution?",
+    "description": "A transfer labeled shareholder loan needs more than a bookkeeping account. Use this guide to review repayment intent, terms and the consequences of personal cash use."
+  },
+  {
+    "path": "/reading-guides/c-corp-owner-payroll-benefits-budget",
+    "url": "https://www.ccorptaxbook.com/reading-guides/c-corp-owner-payroll-benefits-budget",
+    "title": "C Corporation Owner Pay and Benefits: Build One Budget",
+    "description": "Compensation, benefits and retirement funding belong in one corporate cash plan. Learn which assumptions need review before estimating an owner's tax benefit."
+  },
+  {
+    "path": "/reading-guides/c-corp-asset-sale-stock-sale-comparison",
+    "url": "https://www.ccorptaxbook.com/reading-guides/c-corp-asset-sale-stock-sale-comparison",
+    "title": "C Corporation Exit Planning: Asset Sale and Stock Sale Comparison",
+    "description": "An exit offer needs a tax structure comparison before the headline price is evaluated. Follow how an asset sale can affect both corporation and shareholder cash."
+  },
+  {
+    "path": "/reading-guides/corporate-loss-does-not-offset-owner-wages",
+    "url": "https://www.ccorptaxbook.com/reading-guides/corporate-loss-does-not-offset-owner-wages",
+    "title": "C Corporation Losses: Why They Do Not Pass Through to Owner Wages",
+    "description": "A C corporation loss is not an S corporation K-1 loss. Learn where corporate losses stay and why the owner's personal salary is a separate tax item."
+  },
+  {
+    "path": "/reading-guides",
+    "url": "https://www.ccorptaxbook.com/reading-guides",
+    "title": "C Corporation Tax Strategy: AE Tax Advisors Companion Reading Guides",
+    "description": "Read six focused c corporation tax strategy companion guides with worked examples, records checklists, IRS references and links to published AE Tax Advisors case studies."
+  }
+]
