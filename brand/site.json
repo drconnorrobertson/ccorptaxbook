@@ -44,5 +44,6 @@
       "Coordinate elections, reporting, and corporate formalities."
     ]
   ],
-  "generated": false
+  "generated": false,
+  "outputDirectory": "dist"
 }
