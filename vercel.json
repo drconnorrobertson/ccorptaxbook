@@ -57,6 +57,458 @@
   ],
   "cleanUrls": true,
   "trailingSlash": false,
-  "buildCommand": "node scripts/prepare-static.mjs && node brand-build.cjs && node scripts/brand-isolation.mjs dist && node scripts/brand-isolation.mjs dist --check && node scripts/brand-check.mjs dist",
-  "outputDirectory": "dist"
+  "buildCommand": "node scripts/prepare-static.mjs && node brand-build.cjs && node scripts/brand-isolation.mjs dist && node scripts/brand-isolation.mjs dist --check && node scripts/brand-check.mjs dist && node scripts/consolidate-content.cjs",
+  "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "/blog/c-corp-formation-advanced",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-scorecard",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-faq",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-questions",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-advanced",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-checklist",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-red-flags",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-scorecard",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-implementation",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-faq",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-scorecard",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-questions",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-formation-examples",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-checklist",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-questions",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-examples",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-implementation",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-implementation",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-advanced",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-formation-checklist",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-mistakes",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-scorecard",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-checklist",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-red-flags",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-checklist",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-examples",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-mistakes",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-examples",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-red-flags",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-scorecard",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-faq",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-checklist",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-formation-mistakes",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-red-flags",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-red-flags",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-implementation",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-examples",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-mistakes",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-faq",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-faq",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-checklist",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-scorecard",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-formation-questions",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-implementation",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-implementation",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-advanced",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-checklist",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-implementation",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-questions",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-examples",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-checklist",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-examples",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-red-flags",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-mistakes",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-red-flags",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-advanced",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-formation-red-flags",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-examples",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-advanced",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-scorecard",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-advanced",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-mistakes",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-checklist",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-questions",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-advanced",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-examples",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-scorecard",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-questions",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-faq",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-red-flags",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dividends-questions",
+      "destination": "/blog/dividends-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/multistate-tax-implementation",
+      "destination": "/blog/multistate-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-advanced",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-implementation",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-formation-scorecard",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-mistakes",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-formation-implementation",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/qsbs-red-flags",
+      "destination": "/blog/qsbs-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-advanced",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-mistakes",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fringe-benefits-faq",
+      "destination": "/blog/fringe-benefits-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-faq",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-mistakes",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/corporate-transactions-questions",
+      "destination": "/blog/corporate-transactions-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/retained-earnings-mistakes",
+      "destination": "/blog/retained-earnings-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-scorecard",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-formation-faq",
+      "destination": "/blog/c-corp-formation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/net-operating-losses-questions",
+      "destination": "/blog/net-operating-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/owner-compensation-examples",
+      "destination": "/blog/owner-compensation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c-corp-exit-faq",
+      "destination": "/blog/c-corp-exit-field-guide",
+      "permanent": true
+    }
+  ]
 }
