@@ -1,0 +1,48 @@
+{
+  "repo": "ccorptaxbook",
+  "domain": "www.ccorptaxbook.com",
+  "label": "C Corporation Tax Book",
+  "eyebrow": "The AE Tax Advisors reading room",
+  "headline": "Consider the full life of a corporate tax decision.",
+  "intro": "Explore corporate structure, retained earnings, shareholder distributions, and exit considerations. Evaluate the company and its owners together before choosing a C corporation strategy.",
+  "service": "/advanced-income-entity-planning/",
+  "role": "C corporation book companion",
+  "topics": [
+    [
+      "Learning library",
+      "/blog/",
+      "Explore corporate tax planning and decision guides."
+    ],
+    [
+      "Entity advisory",
+      "https://www.aetaxadvisors.com/advanced-income-entity-planning/",
+      "Discuss entity choices and owner objectives with AE."
+    ],
+    [
+      "AE tax books",
+      "https://www.aetaxadvisors.com/books/",
+      "Explore the broader reading collection."
+    ]
+  ],
+  "prepare": [
+    "Corporate and shareholder returns",
+    "Ownership, capitalization, and shareholder agreements",
+    "Distribution history and business reinvestment forecasts",
+    "Financing needs and proposed exit transactions"
+  ],
+  "steps": [
+    [
+      "Map the owners",
+      "Identify tax status, goals, and ownership changes."
+    ],
+    [
+      "Compare full-cycle tax",
+      "Include distributions and disposition assumptions."
+    ],
+    [
+      "Confirm implementation",
+      "Coordinate elections, reporting, and corporate formalities."
+    ]
+  ],
+  "generated": false
+}
