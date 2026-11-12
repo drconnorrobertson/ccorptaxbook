@@ -1,0 +1,18 @@
+{
+  "title": "C Corporation Tax Book: Earnings & Owner Pay | AE Tax",
+  "description": "Read the AE C corporation tax book with companion guides on retained earnings, business needs, owner payroll and benefits.",
+  "heading": "Read beyond the headline corporate rate",
+  "intro": "Pair the book with working records on retained profits and the cost of taking money out of the company.",
+  "links": [
+    {
+      "href": "/reading-guides/retained-earnings-business-needs-file",
+      "label": "Document retained earnings and business needs"
+    },
+    {
+      "href": "/reading-guides/c-corp-owner-payroll-benefits-budget",
+      "label": "Budget owner payroll and benefits"
+    }
+  ],
+  "buildCommand": "node scripts/production-build.cjs && node scripts/practical-homepage.cjs dist && node scripts/brand-check.mjs dist",
+  "outputDirectory": "dist"
+}
