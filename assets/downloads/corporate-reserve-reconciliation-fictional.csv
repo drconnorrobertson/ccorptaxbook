@@ -1,0 +1,5 @@
+Fictional record,Gross amount USD,Financed portion USD,Already counted USD,Company cash counted USD,Assumption
+Supplier deposit,120000,0,0,120000,Assumed paid from own cash
+Equipment purchase,250000,100000,0,150000,Assumed committed financing available
+Operating forecast,180000,0,0,180000,Assumed includes listed 40000 debt principal
+Debt principal in operating forecast,40000,0,40000,0,Already counted in operating forecast; no additional cash counted
