@@ -1,0 +1,7 @@
+Fictional record,Company paid USD,Coverage face amount USD,Pending claim USD,Insurance reimbursed USD,Claim remaining before eligibility USD,Employee exclusion,Employer deduction,Reporting decision
+Health premiums,24000,,,,,Unresolved,Unresolved,Unresolved
+Life insurance premium,600,50000,,,,Unresolved,Unresolved,Unresolved
+Employer retirement funding,18000,,,,,Unresolved,Unresolved,Unresolved
+Parking payments,2400,,,,,Unresolved,Unresolved,Unresolved
+Educational payment,5250,,,,,Unresolved,Unresolved,Unresolved
+Pending medical claim,0,,3000,500,2500,Unresolved,Unresolved,Unresolved
